@@ -78,35 +78,3 @@ JSON
   "status": "Success",
   "message": "Hello from express server"
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
